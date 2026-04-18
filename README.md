@@ -14,7 +14,7 @@ I build **AI-powered systems** that automate workflows, reduce manual effort, an
 ## 🤝 Let’s Connect  
 
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-rauniyar-6600961a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvcOHuKNJTfaz4t9T2k0LUQ%3D%3D">
+  <a href="https://www.linkedin.com/in/ashish-rauniyar-6600961a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
