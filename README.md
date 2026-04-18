@@ -18,11 +18,11 @@ I build **AI-powered systems** that automate workflows, reduce manual effort, an
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://youtube.com/https://www.youtube.com/@rauniai">
+  <a href="https://www.youtube.com/@rauniai">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
   </a>
 
-  <a href="https://instagram.com/https://www.instagram.com/rauni.ai?igsh=d2h5eDlzdzFhbjcx">
+  <a href="https://www.instagram.com/rauni.ai?igsh=d2h5eDlzdzFhbjcx">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
   </a>
 
