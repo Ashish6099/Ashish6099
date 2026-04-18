@@ -130,3 +130,103 @@ To build an **AI-driven company** where systems:
 ---
 
 ⭐ *Open to collaboration on AI systems, automation tools, and real-world problem solving.*
+
+
+
+
+# 👋 Ashish Rauniyar  
+### AI & Automation Engineer  
+
+---
+
+## 🧠 About  
+
+I build **AI-powered systems** that automate workflows, reduce manual effort, and improve decision-making.
+
+My focus is on combining **LLMs, backend engineering, and automation** to solve real-world business problems and create scalable solutions.
+
+---
+
+<details open>
+<summary><b>⚙️ Skills</b></summary>
+
+<br>
+
+### AI & Machine Learning  
+- LLMs (OpenAI & open-source)  
+- Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- AI Agents (LangChain, LangGraph)  
+- Model orchestration & tool integration  
+
+### Automation & Systems  
+- Workflow Automation (n8n, APIs, Webhooks)  
+- Business Process Automation  
+- Task orchestration & system design  
+
+### Backend Development  
+- Python  
+- FastAPI  
+- REST APIs  
+
+### Data & Storage  
+- PostgreSQL  
+- Supabase  
+- Vector Databases (FAISS, Pinecone)  
+
+### Cloud & DevOps  
+- Azure  
+- Docker  
+- Git & GitHub  
+
+</details>
+
+---
+
+<details open>
+<summary><b>🚀 Projects Working On</b></summary>
+
+<br>
+
+- **AI Lead Management System**  
+  Automating lead capture, qualification, and response  
+
+- **AI Operations Agent**  
+  Intelligent agent for task planning, reasoning, and execution  
+
+- **AI Knowledge Chatbot (RAG)**  
+  Context-aware Q&A system using document-based knowledge  
+
+- **Cost Prediction Engine**  
+  Predicting business costs using historical data  
+
+</details>
+
+---
+
+<details open>
+<summary><b>🌟 My Vision</b></summary>
+
+<br>
+
+To build an **AI-driven company** where intelligent systems:
+
+- Automate business operations  
+- Reduce repetitive manual work  
+- Enable faster and smarter decision-making  
+
+</details>
+
+---
+
+<details open>
+<summary><b>🤝 Let’s Connect</b></summary>
+
+<br>
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- YouTube: https://youtube.com/YOUR-CHANNEL  
+- Instagram: https://instagram.com/YOUR-HANDLE  
+- Email: your-email@example.com  
+
+</details>
