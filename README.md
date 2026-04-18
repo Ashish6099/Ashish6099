@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Ashish Rauniyar  
-### 🚀 AI & Automation Engineer | Building Intelligent Automation Systems  
----
+🚀 AI & Automation Engineer | Building Intelligent Automation Systems  
 
 ## 🧠 About Me  
 
@@ -10,7 +9,6 @@ I build **AI-powered systems** that automate workflows, reduce manual effort, an
 - 🔹 Building **production-ready AI + backend systems**  
 - 🔹 Turning ideas into **scalable automation solutions**  
 
----
 ## 🤝 Let’s Connect  
 
 <p>
