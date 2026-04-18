@@ -1,9 +1,6 @@
 # 👋 Hey, I'm Ashish Rauniyar  
 
 ### 🚀 Building AI Systems that Automate Real Work  
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
-
 ---
 
 ## 🧠 About Me  
@@ -16,6 +13,23 @@ Instead of just learning AI, I focus on:
 - Designing **intelligent agents that can think, plan, and act**
 
 > ⚡ My goal: Build an AI-driven company where systems run businesses autonomously.
+
+---
+## 🤝 Let’s Stay Connected  
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
@@ -77,23 +91,7 @@ A system where:
 
 ---
 
-## 🤝 Let’s Stay Connected  
 
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
 
 ## ⚡ Fun Fact  
 
