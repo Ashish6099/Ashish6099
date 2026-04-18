@@ -1,125 +1,104 @@
-# 🚀 Ashish Rauniyar  
-### AI Engineer | Building AI Automation Systems & Intelligent Agents
+# 👋 Hey, I'm Ashish Rauniyar  
 
-I design and build **production-ready AI systems** that automate business workflows, reduce manual effort, and improve decision-making.
+### 🚀 Building AI Systems that Automate Real Work  
 
-My focus is on combining **LLMs, backend systems, and real-world problem solving** to create scalable AI solutions.
-
----
-
-## 🧠 What I Do
-
-- 🔹 Build AI-powered automation systems for real-world business problems  
-- 🔹 Design and develop **AI agents (planning, reasoning, tool use, memory)**  
-- 🔹 Create **RAG-based knowledge systems** for intelligent search & Q&A  
-- 🔹 Convert manual workflows into **fully or partially automated pipelines**  
-- 🔹 Develop backend systems using **FastAPI, APIs, and cloud deployment**
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 About Me  
 
-**Languages & Backend**
-- Python, FastAPI  
-- REST APIs, Webhooks  
+I build **AI-powered systems** that automate workflows, reduce manual effort, and make smarter decisions.
 
-**AI / ML**
-- LLMs (OpenAI, open-source models)  
-- LangChain, LangGraph (Agent workflows)  
+Instead of just learning AI, I focus on:
+- Turning **real-world problems into AI solutions**
+- Building **production-ready systems**
+- Designing **intelligent agents that can think, plan, and act**
+
+> ⚡ My goal: Build an AI-driven company where systems run businesses autonomously.
+
+---
+
+## ⚙️ Tech I Work With  
+
+### 🧩 AI / ML
+- LLMs, Prompt Engineering  
 - RAG (Retrieval-Augmented Generation)  
-- Prompt Engineering  
+- AI Agents (LangChain, LangGraph)  
 
-**Data & Storage**
+### 🛠 Backend & Systems
+- Python, FastAPI  
+- APIs, Webhooks, Automation  
 - PostgreSQL, Supabase  
-- Vector Databases (FAISS / Pinecone)  
 
-**Cloud & DevOps**
-- Azure (preferred), AWS  
+### ☁️ Cloud & Tools
+- Azure (learning & building)  
 - Docker  
 - Git & GitHub  
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 What I’m Building  
 
-### 🧩 AI Lead Management System
-> Automates lead capture, qualification, and response using AI
+### 🧩 AI Lead Management System  
+Automating lead capture → qualification → response using AI  
 
-- AI-based lead scoring (hot/warm/cold)  
-- Automated email responses  
-- CRM-style dashboard  
-- Webhook + database + AI pipeline  
+### 🤖 AI Operations Agent  
+Agent that can:
+- Plan tasks  
+- Use tools  
+- Make decisions  
+- Automate workflows  
 
----
+### 📚 AI Knowledge Chatbot (RAG)  
+Ask questions from documents with context-aware answers  
 
-### 🤖 AI Operations Agent (LangGraph आधारित)
-> Intelligent agent that plans, reasons, and executes tasks
-
-- Task planning & decision-making  
-- Tool usage (API calls, DB queries)  
-- Memory-based context handling  
-- Workflow automation for operations  
+### 📊 Cost Prediction Engine  
+Predict business costs using historical data  
 
 ---
 
-### 📚 AI Knowledge Chatbot (RAG System)
-> Ask questions from documents with context-aware answers
+## 🚧 Currently Working On  
 
-- Document ingestion & embeddings  
-- Vector search + LLM response  
-- Reduced hallucination using context injection  
+### 🌟 AI Workflow Automation Platform  
 
----
+A system where:
+- You describe a task  
+- AI builds & executes the workflow  
 
-### 📊 Cost Prediction Engine
-> Predicts operational costs using historical data
-
-- Machine learning model training  
-- API-based prediction system  
-- Real-world decision support  
+> Example: “Handle customer queries” → AI does everything  
 
 ---
 
-## 🚧 Open for Collaboration
+## 📊 GitHub Stats  
 
-### 🌟 AI Workflow Automation Platform (In Progress)
-
-I’m building a platform where:
-
-- Users describe a task (e.g., customer support, lead handling)  
-- AI automatically designs and executes workflows  
-- Combines **agents + automation + backend systems**
-
-Looking for collaborators in:
-- AI Engineering  
-- Backend Development  
-- Product Design  
-
-👉 Let’s build something powerful together.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
 
 ---
 
-## 📈 Current Focus
+## 🤝 Let’s Stay Connected  
 
-- Advanced AI agents using LangGraph  
-- Scalable AI system design  
-- Real-world automation solutions  
-- Building an AI-driven company  
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio (optional): your-website.com  
-
----
-
-## ⚡ Fun Fact
-
-I’m not just learning AI — I’m building systems that can **run businesses autonomously.**
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-⭐ *If you like my work, consider following or collaborating!*
+## ⚡ Fun Fact  
+
+I don’t just build projects — I build systems that can **replace repetitive human work.**
+
+---
+
+⭐ *If you like what I’m building, feel free to follow or collaborate!*
