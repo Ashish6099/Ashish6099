@@ -139,6 +139,16 @@ To build an **AI-driven company** where systems:
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/About-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skills-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vision-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge" />
+</p>
+
+---
+
 ## 🧠 About  
 
 I build **AI-powered systems** that automate workflows, reduce manual effort, and improve decision-making.
@@ -147,86 +157,73 @@ My focus is on combining **LLMs, backend engineering, and automation** to solve 
 
 ---
 
-<details open>
-<summary><b>⚙️ Skills</b></summary>
-
-<br>
+## ⚙️ Skills  
 
 ### AI & Machine Learning  
-- LLMs (OpenAI & open-source)  
-- Prompt Engineering  
-- Retrieval-Augmented Generation (RAG)  
-- AI Agents (LangChain, LangGraph)  
-- Model orchestration & tool integration  
+![LLM](https://img.shields.io/badge/LLMs-black?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-blue?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=flat-square)
 
 ### Automation & Systems  
-- Workflow Automation (n8n, APIs, Webhooks)  
-- Business Process Automation  
-- Task orchestration & system design  
+![Automation](https://img.shields.io/badge/Workflow_Automation-orange?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-gray?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-lightgrey?style=flat-square)
 
-### Backend Development  
-- Python  
-- FastAPI  
-- REST APIs  
+### Backend  
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=flat-square)
 
-### Data & Storage  
-- PostgreSQL  
-- Supabase  
-- Vector Databases (FAISS, Pinecone)  
+### Data  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-green?style=flat-square)
+![VectorDB](https://img.shields.io/badge/Vector_DB-orange?style=flat-square)
 
 ### Cloud & DevOps  
-- Azure  
-- Docker  
-- Git & GitHub  
-
-</details>
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square)
 
 ---
 
-<details open>
-<summary><b>🚀 Projects Working On</b></summary>
+## 🚀 Projects Working On  
 
-<br>
-
-- **AI Lead Management System**  
-  Automating lead capture, qualification, and response  
-
-- **AI Operations Agent**  
-  Intelligent agent for task planning, reasoning, and execution  
-
-- **AI Knowledge Chatbot (RAG)**  
-  Context-aware Q&A system using document-based knowledge  
-
-- **Cost Prediction Engine**  
-  Predicting business costs using historical data  
-
-</details>
+- **AI Lead Management System** – Automating lead capture and qualification  
+- **AI Operations Agent** – Intelligent workflow automation agent  
+- **AI Knowledge Chatbot (RAG)** – Context-aware document Q&A  
+- **Cost Prediction Engine** – Predicting business costs  
 
 ---
 
-<details open>
-<summary><b>🌟 My Vision</b></summary>
+## 🌟 My Vision  
 
-<br>
+To build an **AI-driven company** where systems:
 
-To build an **AI-driven company** where intelligent systems:
-
-- Automate business operations  
-- Reduce repetitive manual work  
-- Enable faster and smarter decision-making  
-
-</details>
+- Automate operations  
+- Reduce manual work  
+- Enable smarter decision-making  
 
 ---
 
-<details open>
-<summary><b>🤝 Let’s Connect</b></summary>
+## 🤝 Let’s Connect  
 
-<br>
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- YouTube: https://youtube.com/YOUR-CHANNEL  
-- Instagram: https://instagram.com/YOUR-HANDLE  
-- Email: your-email@example.com  
+  <a href="https://youtube.com/YOUR-CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
+  </a>
 
-</details>
+  <a href="https://instagram.com/YOUR-HANDLE">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+
+
