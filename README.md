@@ -104,7 +104,6 @@ To build an **AI-driven company** where systems:
 - Reduce repetitive human work  
 - Enable smarter, faster decision-making  
 
-
 </details>
 
 
